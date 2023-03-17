@@ -1,3 +1,6 @@
+---
+parent: DOCS
+---
 # Papers
 
 The testing approaches implemented in SQLancer are described in the four papers below.
@@ -13,7 +16,7 @@ This paper describes PQS, a testing approach to detect various kinds of logic bu
 	year = {2020},
 	address = {Banff, Alberta},
 	url = {https://www.usenix.org/conference/osdi20/presentation/rigger},
-	publisher = {{USENIX} Association},
+	publisher = { {USENIX} Association},
 	month = nov,
 }
 ```

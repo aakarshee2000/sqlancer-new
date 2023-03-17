@@ -1,3 +1,6 @@
+---
+parent: DOCS
+---
 # SQLancer for Citus (PostgreSQL extension)
 
 SQLancer (Synthesized Query Lancer) is a tool to automatically test Database Management Systems (DBMS) in order to find logic bugs in their implementation. More information about the tool can be found in the [SQLancer README](https://github.com/sqlancer/sqlancer).

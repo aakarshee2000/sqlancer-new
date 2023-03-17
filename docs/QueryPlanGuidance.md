@@ -1,3 +1,6 @@
+---
+parent: DOCS
+---
 # Query Plan Guidance
 Query Plan Guidance (QPG) is a test case generation method that attempts to explore unseen query plans. Given a database state, we mutate it after no new unique query plans have been observed by randomly-generated queries on the database state aiming to cover more unique query plans for exposing more logics of DBMSs. Here, we document all mutators in which we choose the most promising one that may help covering more unique query plans to execute.
 
